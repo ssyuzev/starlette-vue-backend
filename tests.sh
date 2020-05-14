@@ -1,2 +1,2 @@
 # SET HERE PATH TO YOUR VENV
-source /c/my/svue_backend_env/Scripts/activate && python -m pytest -v tests
+source /var/www/evgeniy_markulchak/svue_backend_env/bin/activate && python -m pytest -v tests
